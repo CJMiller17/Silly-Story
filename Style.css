@@ -1,15 +1,19 @@
 body {
     font-family: helvetica, sans-serif;
     margin-top: 7rem;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: radial-gradient(#A8CD9F, #58A399);
+    
+
 }
 
-img {
-   opacity: .7;
-   display: none; 
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
-
 
 label {
     font-weight: bold;
@@ -17,6 +21,7 @@ label {
 
 div {
     padding-bottom: 20px;
+    margin:
 }
 
 input[type="text"] {
@@ -25,9 +30,11 @@ input[type="text"] {
 }
 
 p {
-    background: #ffc125;
-    color: #5e2612;
+    background: #E2F4C5;
+    color: #496989;
     padding: 10px;
     visibility: hidden;
     display: flex;
+    border-radius: 10px;
+    font-size: larger;
 }
