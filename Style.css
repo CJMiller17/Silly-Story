@@ -1,0 +1,33 @@
+body {
+    font-family: helvetica, sans-serif;
+    margin-top: 7rem;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+img {
+   opacity: .7;
+   display: none; 
+}
+
+
+label {
+    font-weight: bold;
+}
+
+div {
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 150px;
+}
+
+p {
+    background: #ffc125;
+    color: #5e2612;
+    padding: 10px;
+    visibility: hidden;
+    display: flex;
+}
