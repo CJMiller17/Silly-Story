@@ -1,11 +1,19 @@
+@font-face {
+    font-family: MBAxel;
+    src: url(Assets/the_official_gruffalo_font_by_jdesfanatic_dg6dk1k.otf);
+}
+
 body {
-    font-family: helvetica, sans-serif;
+    font-family: MBAxel, helvetica, sans-serif;
     margin-top: 7rem;
-    margin-left: 10%;
-    margin-right: 10%;
     background-image: radial-gradient(#A8CD9F, #58A399);
     
 
+}
+
+img {
+    display: inline;
+    padding-top:;
 }
 
 #center {
@@ -21,7 +29,8 @@ label {
 
 div {
     padding-bottom: 20px;
-    margin:
+    font-size: larger;
+    color: #3a536c;
 }
 
 input[type="text"] {
@@ -36,5 +45,8 @@ p {
     visibility: hidden;
     display: flex;
     border-radius: 10px;
-    font-size: larger;
+    font-size: 1.5rem;
+    line-height: 1.9rem;
+    margin-left: 10%;
+    margin-right: 10%;
 }
