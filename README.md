@@ -4,4 +4,4 @@ The characters and base story come from the book
 "The Gruffalo" written by Julia Donaldson
 and illustrated by Axel Scheffler. 
 
-![The Gruffalo and Co.](Gruffalo-transformed (1).jpeg)
+![The Gruffalo and Co.](Gruffalo.jpeg)
